@@ -1,0 +1,22 @@
+{
+  "name": "nuxt-eventbus-module",
+  "version": "1.0.0",
+  "description": "event bus for Nuxt.js",
+  "main": "src/main.js",
+  "scripts": {
+    "release": "npm publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunchaserkuafu/nuxt-eventbus-module.git"
+  },
+  "author": "sunchaserkuafu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunchaserkuafu/nuxt-eventbus-module/issues"
+  },
+  "homepage": "https://github.com/sunchaserkuafu/nuxt-eventbus-module#readme",
+  "devDependencies": {
+    "vue": "^2.6.11"
+  }
+}
